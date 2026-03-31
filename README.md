@@ -35,7 +35,7 @@ This project proposes:
   ---
 
 ## 🌐 Live Website
-https://sasmikayapa.github.io/UITS.html
+(https://sasmikayapa.github.io/UITS-SriLanka/)
 
 ---
 
